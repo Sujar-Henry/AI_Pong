@@ -1,6 +1,6 @@
 # PONG AI
 
-## This is a Pong AI, I built, which works with the website https://www.ponggame.org/
+#### This is a Pong AI, I built, which works with the website https://www.ponggame.org/
 
 How to use:
 
